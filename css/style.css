@@ -900,7 +900,12 @@ a.active {
 
 #contact {
     padding: 100px 0;
-    background: #f3f3f3
+    background: #f3f3f3;
+    
+}
+
+#info {
+    left: 150%;
 }
 
 #contact-form input,
